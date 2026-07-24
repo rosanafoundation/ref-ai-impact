@@ -5,6 +5,7 @@
 ![REF AI Impact](https://img.shields.io/badge/Project-REF%20AI%20Impact-blue)
 ![Status](https://img.shields.io/badge/Status-Development-green)
 ![Organization](https://img.shields.io/badge/Organization-Rosana%20Empowerment%20Foundation-orange)
+
 Project Status
 🟡 Current Stage: Concept Development and Documentation
 The REF AI Impact Initiative is currently in the foundation stage, focusing on project design, documentation, stakeholder engagement, and preparation for AI solution development.
