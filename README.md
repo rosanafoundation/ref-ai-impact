@@ -5,7 +5,25 @@
 ![REF AI Impact](https://img.shields.io/badge/Project-REF%20AI%20Impact-blue)
 ![Status](https://img.shields.io/badge/Status-Development-green)
 ![Organization](https://img.shields.io/badge/Organization-Rosana%20Empowerment%20Foundation-orange)
-
+Project Status
+🟡 Current Stage: Concept Development and Documentation
+The REF AI Impact Initiative is currently in the foundation stage, focusing on project design, documentation, stakeholder engagement, and preparation for AI solution development.
+Current Progress
+✅ Project vision and framework developed
+✅ Technical design documented
+✅ AI ethics and data protection principles established
+✅ Impact measurement framework developed
+✅ Partnership strategy prepared
+Next Steps
+The next implementation activities include:
+•	Development of AI prototype solutions
+•	Digital beneficiary management system design
+•	Data infrastructure planning
+•	Pilot testing with selected REF programmes
+•	Technology partnership engagement
+•	Scaling strategy development
+The initiative will continue evolving through responsible innovation, community participation, and evidence-based learning.
+ 
 ## About the Project
 
 The **REF AI Impact Initiative** is an innovation project of **Rosana Empowerment Foundation (REF)** that uses Artificial Intelligence (AI), digital technology, and data-driven solutions to strengthen community development programmes.
@@ -25,13 +43,9 @@ REF works in areas including:
 - Youth development
 - Social inclusion
 
-Website:
+**Website:** <https://www.rosanafoundation.org.ng>
 
-https://www.rosanafoundation.org.ng
-
-Email:
-
-info@rosanafoundation.org.ng
+**Email:** <mailto:info@rosanafoundation.org.ng>
 
 ---
 
