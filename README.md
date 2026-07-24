@@ -3,28 +3,38 @@
 ## AI-Powered Solutions for Sustainable Community Development
 
 ![REF AI Impact](https://img.shields.io/badge/Project-REF%20AI%20Impact-blue)
+
 ![Status](https://img.shields.io/badge/Status-Development-green)
+
 ![Organization](https://img.shields.io/badge/Organization-Rosana%20Empowerment%20Foundation-orange)
 
-Project Status
-🟡 Current Stage: Concept Development and Documentation
+## Project Status
+
+🟡 **Current Stage: Concept Development and Documentation**
+
 The REF AI Impact Initiative is currently in the foundation stage, focusing on project design, documentation, stakeholder engagement, and preparation for AI solution development.
-Current Progress
-✅ Project vision and framework developed
-✅ Technical design documented
-✅ AI ethics and data protection principles established
-✅ Impact measurement framework developed
-✅ Partnership strategy prepared
-Next Steps
+
+### Current Progress
+
+✅ Project vision and framework developed  
+✅ Technical design documented  
+✅ AI ethics and data protection principles established  
+✅ Impact measurement framework developed  
+✅ Partnership strategy prepared  
+
+### Next Steps
+
 The next implementation activities include:
-•	Development of AI prototype solutions
-•	Digital beneficiary management system design
-•	Data infrastructure planning
-•	Pilot testing with selected REF programmes
-•	Technology partnership engagement
-•	Scaling strategy development
+
+- Development of AI prototype solutions
+- Digital beneficiary management system design
+- Data infrastructure planning
+- Pilot testing with selected REF programmes
+- Technology partnership engagement
+- Scaling strategy development
+
 The initiative will continue evolving through responsible innovation, community participation, and evidence-based learning.
- 
+
 ## About the Project
 
 The **REF AI Impact Initiative** is an innovation project of **Rosana Empowerment Foundation (REF)** that uses Artificial Intelligence (AI), digital technology, and data-driven solutions to strengthen community development programmes.
@@ -46,15 +56,14 @@ REF works in areas including:
 
 **Website:** <https://www.rosanafoundation.org.ng>
 
-**Email:** <mailto:info@rosanafoundation.org.ng>
-
+**Email:** info@rosanafoundation.org.ng
 ---
 
-# Project Vision
+## Project Vision
 
 To demonstrate how responsible Artificial Intelligence can strengthen nonprofit organizations and improve social impact delivery for vulnerable communities.
 
-# Problem Statement
+## Problem Statement
 
 Many community development programmes face challenges such as:
 
@@ -66,7 +75,7 @@ Many community development programmes face challenges such as:
 
 The REF AI Impact Initiative addresses these challenges through responsible digital transformation.
 
-# AI Solution
+## AI Solution
 
 The project will develop and apply AI-powered tools to support:
 
@@ -105,7 +114,7 @@ The project will develop and apply AI-powered tools to support:
 
 ---
 
-# Key Objectives
+## Key Objectives
 
 The initiative aims to:
 
@@ -117,7 +126,7 @@ The initiative aims to:
 
 ---
 
-# Target Beneficiaries
+## Target Beneficiaries
 
 The initiative focuses on:
 
@@ -131,7 +140,7 @@ Initial implementation will support communities where REF delivers programmes in
 
 ---
 
-# Documentation
+## Documentation
 
 Detailed project documents:
 
@@ -151,7 +160,7 @@ Detailed project documents:
 
 ---
 
-# Responsible AI Commitment
+## Responsible AI Commitment
 
 REF is committed to ensuring that AI is:
 
@@ -165,7 +174,7 @@ Technology will support human expertise and community participation, not replace
 
 ---
 
-# Partnership Opportunities
+## Partnership Opportunities
 
 REF welcomes collaboration with:
 
@@ -185,7 +194,7 @@ Partnership areas include:
 
 ---
 
-# Future Roadmap
+## Future Roadmap
 
 The initiative will progress through:
 
@@ -197,7 +206,7 @@ The initiative will progress through:
 
 ---
 
-# Implementing Organization
+## Implementing Organization
 
 **Rosana Empowerment Foundation (REF)**
 
